@@ -1,0 +1,58 @@
+.container {
+    padding: 10px;
+    border-radius: 1em;
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    background-color: #fb0066;
+    box-shadow:pink(0, 0, 0, 0.19) 0px 10px 20px, pink(0, 0, 0, 0.23) 0px 6px 6px;
+    }
+    .display-box {
+        font-family: 'Orbitron', sans-serif;
+        background-color: black;
+        border: solid pink 0.5px;
+        color: papayawhip;
+        border-radius: 5px;
+        width: 98%;
+        height: 65%;
+        }  
+
+        .form-select {
+            font-family: 'Orbitron', sans-serif;
+            background-color: black;
+            border: solid pink 0.5px;
+            color: papayawhip;
+            border-radius: 5px;
+            width: 98%;
+            height: 5%;
+            }  
+            .form-control {
+                font-family: 'Orbitron', sans-serif;
+                background-color: black;
+                border: solid pink 0.5px;
+                color: papayawhip;
+                border-radius: 5px;
+                width: 98%;
+                height: 5%;
+                } 
+                .btn {
+                    font-family: 'Orbitron', sans-serif;
+                    background-color: black;
+                    border: solid rgb(15, 13, 14) 6px;
+                    padding: 10px;
+                    color: papayawhip;
+                    border-radius: 5px;
+                    width: 98%;
+                    height: 12%;
+                    } 
+                    .display-box   {
+                        font-family: 'Orbitron', sans-serif;
+                        background-color: black;
+                        border: solid rgb(15, 13, 14) 6px;
+                        padding: 10px;
+                        color: papayawhip;
+                        border-radius: 5px;
+                        width: 98%;
+                        height: 12%;
+                        } 
+ 
